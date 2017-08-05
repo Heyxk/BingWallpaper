@@ -1,2 +1,3 @@
 # BingWallpaper
 自动设置必应每日首页美图为壁纸
+release中为打包好的exe文件
